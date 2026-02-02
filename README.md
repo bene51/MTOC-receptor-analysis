@@ -6,7 +6,7 @@ Quantify how well the MTOC binds to the B-cell receptor. In the experiment, the 
 
 For quantification, we check how well the MTOC is centered within the cell, by calculating the distance of the MTOC to the center of the cell outline. Furthermore, we calculate the weighted mean distance of the receptor signal to the MTOC.
 
-Example dataset: [20240306\_405+406\_ko.tif](20240306_405+406_ko.tif).
+Example dataset: [20240306\_405+406\_ko.tif](https://github.com/bene51/MTOC-receptor-analysis/releases/download/v0.1.0/20240306_405+406_ko.tif).
 
 
 ## Installation
